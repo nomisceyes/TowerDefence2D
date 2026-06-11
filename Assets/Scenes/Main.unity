@@ -18692,7 +18692,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GridSelector
   _groundTilemap: {fileID: 1100017443}
-  _highlightPrefab: {fileID: 5021926261315973367, guid: 13dd94ae015807e42993d873921c8e96, type: 3}
 --- !u!156049354 &1349156252
 Grid:
   m_ObjectHideFlags: 0
